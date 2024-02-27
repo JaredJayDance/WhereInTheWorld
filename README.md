@@ -7,7 +7,7 @@ I settled on presenting the coordinates on a webpage that contained a map with p
 
 ## Usage
 
-Specify the input file containing coordinates and other details, then run WhereTheHeck.java. This will create a formattedInput file which is then converted to a .geojson file. 
+Specify the input file containing coordinates and other details, then run WhereInTheWorld.java. This will create a formattedInput file which is then converted to a .geojson file. 
 Then run index.html which will use the Leaflet template to display each specified pair of coordinates in a locally hosted webpage for viewing.
 
 Author: Jay Dance
